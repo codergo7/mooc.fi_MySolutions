@@ -15,9 +15,12 @@ public class Exercise {
 
     public void setCompleted(boolean completed) {
         this.completed = completed;
+
     }
 
     public boolean isCompleted() {
+
         return completed;
     }
+
 }
